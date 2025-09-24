@@ -1,5 +1,10 @@
 # React + Vite
 
+# Overview
+  - Practive project for react props,Hooks (useState,useEffect) concepts.
+# Project Link
+  - https://ecomkaro-g6fzt9kmh-sekhars-projects-9824253e.vercel.app
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
